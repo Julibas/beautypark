@@ -1,0 +1,481 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"href"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"phone",
+				"phone_number"
+			],
+			[
+				"p",
+				"pnum"
+			],
+			[
+				"fre",
+				"freqst"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"tar",
+				"tarif_name\t(models.py)"
+			],
+			[
+				"ta",
+				"tarif_name\t(models.py)"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"contr",
+				"Contract"
+			],
+			[
+				"au",
+				"autofocus\tAttr"
+			],
+			[
+				"render",
+				"render_to_response"
+			],
+			[
+				"tarif",
+				"tarif_name"
+			],
+			[
+				"sef",
+				"self"
+			],
+			[
+				"bla",
+				"blank=False"
+			],
+			[
+				"ve",
+				"verbose_name"
+			],
+			[
+				"su",
+				"submit"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"req",
+				"req_st"
+			],
+			[
+				"add",
+				"adduser\t(urls.py)"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"da",
+				"datalist\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"la",
+				"label\tTag"
+			],
+			[
+				"fi",
+				"fieldset\tTag"
+			],
+			[
+				"pl",
+				"placeholder"
+			],
+			[
+				"us",
+				"user_data"
+			],
+			[
+				"me",
+				"method"
+			],
+			[
+				"F",
+				"False"
+			],
+			[
+				"view",
+				"views"
+			],
+			[
+				"con",
+				"context"
+			],
+			[
+				"te",
+				"template"
+			],
+			[
+				"ur",
+				"url_lang"
+			],
+			[
+				"pri",
+				"primary\t(test_sqlite.sql)"
+			],
+			[
+				"cla",
+				"class\tAttr"
+			],
+			[
+				"col",
+				"col\tTag"
+			],
+			[
+				"color",
+				"color:green"
+			],
+			[
+				"co",
+				"colspan\tAttr"
+			],
+			[
+				"wi",
+				"width\tAttr"
+			],
+			[
+				"st",
+				"style\tAttr"
+			],
+			[
+				"spa",
+				"span\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"__",
+				"__init__\tinit"
+			],
+			[
+				"sel",
+				"self.name\t(ls8.py)"
+			],
+			[
+				"f_",
+				"f_string"
+			],
+			[
+				"wr",
+				"wr_txt"
+			],
+			[
+				"cont",
+				"cont_list"
+			],
+			[
+				"car",
+				"car1"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"read",
+				"readlines"
+			],
+			[
+				"li",
+				"lines"
+			],
+			[
+				"txt",
+				"txt_read"
+			],
+			[
+				"ra",
+				"readFile"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ser",
+				"serverStatic"
+			],
+			[
+				"file",
+				"filePath"
+			],
+			[
+				"fu",
+				"fun\tFunction"
+			],
+			[
+				"send",
+				"send404"
+			],
+			[
+				"ca",
+				"cache"
+			],
+			[
+				"w",
+				"writeHead"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "ins",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"em",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/julik/beautypark/production/beautypark",
+		"/home/julik/beautypark/v2"
+	],
+	"file_history":
+	[
+		"/home/julik/beautypark/production/beautypark/news.html",
+		"/home/julik/beautypark/production/beautypark/about.html",
+		"/home/julik/beautypark/v2/index.html",
+		"/home/julik/beautypark/v2/style.css",
+		"/home/julik/beautypark/production/beautypark/news.css",
+		"/home/julik/beautypark/production/beautypark/index.html",
+		"/home/julik/beautypark/production/beautypark/contacts.html",
+		"/home/julik/beautypark/production/beautypark/contacts.css",
+		"/home/julik/beautypark/production/beautypark/about.css",
+		"/home/julik/beautypark/production/beautypark/style.css",
+		"/home/julik/doc_manuals/codeNode.js-v-deystvii/3/test-currency.js",
+		"/home/julik/Desktop/scriptpy/gui.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Косметология в Калининграде – это новые возможности и перспективы, открывающиеся перед человеком в области ухода за собой. В настоящее время появилось множество различных методик и препаратов, открылись новые потенциалы в эстетической хирургии и косметологии, о которых людям мало что известно. Каждый человек уникален, поэтому чтобы правильно подобрать косметологическую процедуру для него, нужен совет опытного специалиста в этой отрасли. \n\nКосметология - это наука в области медицины. Она помогает людям в любом возрасте выглядеть молодыми, здоровыми и ухоженными. Эстетическая косметология предусматривает уход за лицом и телом. Она позволяет избавиться от недостатков и подчеркнуть естественную красоту человека.",
+			"icon",
+			"logo",
+			"2133",
+			"spu-741",
+			"spu-471",
+			"3",
+			"\"\"\"\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "beautypark.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,43 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	margin: 20px;
+}
+
+.menu {
+	width: 40px;
+	height: 40px;
+	padding: 0;
+	border-radius: 5px;
+	font-size: 0;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	white-space: nowrap;
+}
+
+.menu .item {
+	display: inline-block;
+	
+	list-style: none;
+	position: relative;
+	white-space: nowrap;
+}
+
+.menu .link {
+	padding: 10px 12px 12px;
+	color: black;
+	font-size: 22px;
+	font-weight: bold;
+	font-family: Arial;
+	text-decoration: none;
+	display: block;
+	border-top: 1px solid #c4c4c4;
+	transition: all 0.3s;
+}
+
+.menu .link:hover {
+	color: #fff;
+}

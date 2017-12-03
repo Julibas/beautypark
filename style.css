@@ -15,7 +15,7 @@ ul.menu {
 	-moz-border-radius: 5px;
 	display: inline-block;
 /*	background-color: #3d3e40; */
-	width: 190px;
+	width: auto;
 }
 
 ul.menu li {
@@ -26,7 +26,7 @@ ul.menu li {
 ul.menu li a {
 	padding: 10px 12px 12px;
 	color: black;
-	font-size: 22px;
+	font-size: 28px;
 	font-weight: bold;
 	font-family: Arial;
 	text-decoration: none;

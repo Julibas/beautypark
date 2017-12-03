@@ -1,0 +1,14 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+img {
+	width: 100%;
+}
+body {
+	min-height: 100vh;
+	background: url('images/about.jpg') no-repeat;
+	background-size: cover;
+	background-position: center center; 
+}

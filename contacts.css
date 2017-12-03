@@ -1,0 +1,32 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+img {
+	width: 100%;
+}
+body {
+	min-height: 100vh;
+	background: url('images/contacts.jpg') no-repeat;
+	background-size: cover;
+	background-position: center center; 
+}
+
+.description {
+	background-color: black;
+	margin: 0;
+	display: block;
+	height: 200px;
+	width: 300px;
+	position: absolute;
+	left: 50px;
+	bottom: 20%;
+}
+.description .container {
+	position: inherit;
+	font-size: 20px;
+	font-weight: bold;
+	font-family: Arial;
+	color: white;
+}
